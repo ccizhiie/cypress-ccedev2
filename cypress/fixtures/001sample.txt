@@ -1,0 +1,5 @@
+Nama, Umur
+Budi, 25
+Ani, 30
+Sinta, 27
+Doni, 22
